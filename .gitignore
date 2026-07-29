@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Model Files
+*.pkl
+
+# OAuth Tokens
+token.json
+
+# Google Credentials
+credentials.json
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# Build
+build/
+dist/
+*.egg-info/
