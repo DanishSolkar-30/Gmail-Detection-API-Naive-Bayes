@@ -59,10 +59,6 @@ Gmail-Detection-API-Naive-Bayes/
 ├── spam.csv
 ├── README.md
 ├── requirements.txt
-├── credentials.json
-├── model.pkl
-├── vectorizer.pkl
-├── token.json
 └── .gitignore
 ```
 
